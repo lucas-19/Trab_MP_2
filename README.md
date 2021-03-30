@@ -1,1 +1,2 @@
 # Trab_MP_2
+Para compilar e executar o programa é necessário entrar no arquivo src, rodar no terminal o comando "make" para compilar, e para executar o programa é necessário rodar no terminal o comando "./romano". Com isso deveria ter a seguinte saída: All tests passed (45 assertions in 2 test cases). Sendo que são dois testes, um testando os casos de sucesso e outro testando os casos de fracasso. 
